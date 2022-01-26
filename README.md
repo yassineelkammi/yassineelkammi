@@ -1,4 +1,4 @@
-### Hi there 👋, i'm ELKAMMI YASSINE
+### Hi there 👋, i'm YASSINE EL KAMMI
 
 Here are some ideas to get you started:
 
