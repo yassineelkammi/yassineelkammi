@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning js vue.js
 - 💬 Ask me about C# C html5 CSS git js sql server Laravel PHP
-- 📫 How to reach me: yassineelkpro@gmail.com
+- 📫 How to reach me: y.elkammi@uca.ac.ma
 - 😄 Pronouns: He
 - ⚡ Fun fact: I  finish it 
 -->
